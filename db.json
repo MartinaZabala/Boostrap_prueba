@@ -1,0 +1,66 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "Configuración del proyecto en GitHub ",
+      "descripcion": "Crear un nuevo repositorio en GitHub.Inicializar el proyecto con su respectivo archivo readme. Vincular el repositorio al proyecto en el desarrollo de entorno. Realizar el primer commit con los archivos iniciales.",
+      "imagen": "https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png",
+      "responsable": "Martina Zabala",
+      "estado": "Completada"
+    },
+    {
+      "id": 2,
+      "titulo": "Implementación de menú",
+      "descripcion": "El usuario debe poder seleccionar mediante el ingreso de una opción la operación aritmética a ejecutar. El usuario debe tener la opción de continuar realizando operaciones sin necesidad de reiniciar la calculadora.El usuario debe tener la opción de finalizar el programa.",
+      "imagen": "https://4.bp.blogspot.com/-ZZyb2AoOgVU/TiOQ-6K2-4I/AAAAAAAAABs/8e8K46zNeIE/s1600/calculadora.png",
+      "tiempo": 1,
+      "responsable": "Martina Zabala",
+      "estado": "Por Hacer"
+    },
+    {
+      "id": 3,
+      "titulo": "Implementación de la función suma",
+      "descripcion": "El usuario debe poder ingresar dos números y obtener el resultado de la suma.El resultado debe mostrarse en la consola.Realizar las pruebas necesarias a la función.Realizar el commit con la implementación de la función y las pruebas correspondientes.",
+      "imagen": "https://www.seekpng.com/png/detail/17-178739_red-cross-signo-suma.png",
+      "tiempo": 1,
+      "responsable": "Martina Zabala",
+      "estado": "En Proceso"
+    },
+    {
+      "id": 4,
+      "titulo": "Implementación de la función resta",
+      "descripcion": "El usuario debe poder ingresar dos números y obtener el resultado de la resta. El resultado debe mostrarse en la consola. Realizar las pruebas necesarias a la función.Realizar el commit con la implementación de la función y las pruebas correspondientes.",
+      "imagen": "https://image.freepik.com/iconos-gratis/restar--ios-7-simbolo_318-35500.jpg",
+      "tiempo": 1,
+      "responsable": "Martina Zabala",
+      "estado": "En Proceso"
+    },
+    {
+      "id": 5,
+      "titulo": "Implementación de la función multiplicación",
+      "descripcion": "El usuario debe poder ingresar dos números y obtener el resultado de la multiplicación. El resultado debe mostrarse en la consola.Realizar las pruebas necesarias a la función.Realizar el commit con la implementación de la función y las pruebas correspondientes.",
+      "imagen": "https://image.freepik.com/iconos-gratis/simbolo-de-multiplicacion_318-58933.jpg",
+      "tiempo": 1,
+      "responsable": "Martina Zabala",
+      "estado": "Por Testear"
+    },
+    {
+      "id": 6,
+      "titulo": "Implementación de la función división",
+      "descripcion": "El usuario debe poder ingresar dos números y obtener el resultado de la división. Si el divisor es cero, se debe mostrar un mensaje de error.El resultado debe mostrarse en la consola.Realizar las pruebas necesarias a la función.Realizar el commit con la implementación de la función y las pruebas correspondientes.",
+      "imagen": "https://tse4.mm.bing.net/th?id=OIP.qf_OzqG0oYnSRh-jt62obgHaHa&pid=Api&P=0&w=300&h=300",
+      "tiempo": 2,
+      "responsable": "Martina Zabala",
+      "estado": "Completada"
+    },
+    {
+      "id": 7,
+      "titulo": "Revisiones y ajustes finales",
+      "descripcion": "Realizar refactorizaciones en el código para mejorar su legibilidad y mantenibilidad.Verificar que todas las pruebas unitarias pasen correctamente.Añadir comentarios y documentación adecuados al código.Realizar el commit con los ajustes finales realizados..",
+      "imagen": "https://image.freepik.com/iconos-gratis/herramientas-cruzan-simbolo-ajustes-para-la-interfaz_318-48264.jpg",
+      "tiempo": 1,
+      "responsable": "Martina Zabala",
+      "estado": "Por Testear"
+    }
+  ]
+}
