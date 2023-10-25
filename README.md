@@ -12,7 +12,8 @@ Ofrece categorías de tareas, incluyendo "Por Hacer", "En Proceso", "Por Testear
 ## Instrucciones para Ejecutar el Proyecto
 
 1. Clona este repositorio en tu máquina local:
-
+   ```bash
+   https://github.com/MartinaZabala/Boostrap_prueba
 
 2. Instalar json server:
    
